@@ -1,0 +1,141 @@
+order_id,status,eta,total,shipping_provider
+100123,Processing,2025-12-12,$87.43,DHL
+100587,Shipped,2025-12-09,$55.90,FedEx
+100932,Delivered,2025-11-30,$129.50,UPS
+101221,Cancelled,2025-11-20,$45.00,Postal Service
+101443,Processing,2025-12-14,$19.75,Local Courier
+101822,Shipped,2025-12-08,$242.10,DHL
+102115,Processing,2025-12-13,$77.32,FedEx
+102449,Delivered,2025-12-01,$34.99,UPS
+102774,Shipped,2025-12-07,$110.50,Postal Service
+103119,Processing,2025-12-11,$205.00,DHL
+103402,Delivered,2025-11-29,$15.99,Local Courier
+103755,Shipped,2025-12-10,$72.40,FedEx
+104028,Processing,2025-12-13,$188.20,UPS
+104391,Delivered,2025-12-02,$99.99,Postal Service
+104744,Processing,2025-12-12,$45.75,Local Courier
+105022,Shipped,2025-12-09,$222.00,DHL
+105403,Delivered,2025-11-28,$14.50,UPS
+105720,Cancelled,2025-11-18,$78.90,Postal Service
+106034,Processing,2025-12-15,$63.75,FedEx
+106402,Shipped,2025-12-07,$144.20,DHL
+106799,Delivered,2025-12-01,$200.00,UPS
+107150,Processing,2025-12-11,$18.20,Local Courier
+107522,Shipped,2025-12-06,$87.99,Postal Service
+107881,Delivered,2025-11-30,$120.45,FedEx
+108200,Processing,2025-12-14,$33.00,DHL
+108545,Shipped,2025-12-08,$59.99,UPS
+108892,Delivered,2025-11-29,$19.99,Local Courier
+109177,Processing,2025-12-13,$142.50,FedEx
+109566,Shipped,2025-12-06,$74.10,DHL
+109889,Delivered,2025-11-30,$199.99,UPS
+110244,Processing,2025-12-15,$52.30,Postal Service
+110577,Shipped,2025-12-07,$34.50,Local Courier
+110932,Delivered,2025-12-01,$77.90,FedEx
+111290,Cancelled,2025-11-22,$40.10,UPS
+111661,Processing,2025-12-13,$188.80,DHL
+112015,Shipped,2025-12-08,$220.00,FedEx
+112330,Delivered,2025-11-29,$12.99,Local Courier
+112745,Processing,2025-12-14,$65.20,UPS
+113152,Shipped,2025-12-06,$310.00,DHL
+113557,Delivered,2025-12-02,$91.30,Postal Service
+113910,Processing,2025-12-13,$150.75,FedEx
+114334,Shipped,2025-12-10,$29.99,UPS
+114700,Delivered,2025-11-28,$249.99,DHL
+115089,Processing,2025-12-12,$140.60,Local Courier
+115442,Shipped,2025-12-07,$18.99,Postal Service
+115820,Delivered,2025-11-30,$56.70,FedEx
+116277,Processing,2025-12-14,$203.55,DHL
+116640,Shipped,2025-12-09,$144.99,UPS
+116999,Delivered,2025-11-29,$34.99,Local Courier
+117355,Processing,2025-12-13,$110.40,Postal Service
+117799,Shipped,2025-12-06,$87.30,FedEx
+118144,Delivered,2025-12-01,$45.25,UPS
+118520,Processing,2025-12-14,$160.90,DHL
+118910,Shipped,2025-12-08,$240.00,UPS
+119255,Delivered,2025-11-30,$75.50,Postal Service
+119600,Processing,2025-12-13,$33.33,Local Courier
+119999,Shipped,2025-12-06,$89.99,FedEx
+120355,Delivered,2025-11-29,$19.99,DHL
+120744,Processing,2025-12-15,$200.10,UPS
+121133,Shipped,2025-12-10,$177.45,Local Courier
+121522,Delivered,2025-12-01,$55.55,FedEx
+121910,Processing,2025-12-13,$120.00,Postal Service
+122344,Shipped,2025-12-09,$66.99,DHL
+122733,Delivered,2025-11-30,$14.20,UPS
+123122,Processing,2025-12-14,$49.99,FedEx
+123566,Shipped,2025-12-07,$130.00,Local Courier
+123900,Delivered,2025-11-29,$92.99,UPS
+124255,Processing,2025-12-12,$210.75,Postal Service
+124600,Shipped,2025-12-09,$157.40,FedEx
+124944,Delivered,2025-12-01,$39.95,DHL
+125300,Processing,2025-12-14,$77.77,UPS
+125644,Shipped,2025-12-06,$260.00,Postal Service
+125999,Delivered,2025-11-28,$18.20,Local Courier
+126345,Processing,2025-12-13,$53.35,FedEx
+126700,Shipped,2025-12-08,$99.99,DHL
+127044,Delivered,2025-11-30,$249.49,UPS
+127388,Processing,2025-12-15,$134.10,Local Courier
+127755,Shipped,2025-12-07,$70.00,FedEx
+128100,Delivered,2025-11-29,$25.00,DHL
+128444,Processing,2025-12-14,$190.40,UPS
+128799,Shipped,2025-12-10,$150.60,Postal Service
+129122,Delivered,2025-12-02,$45.60,FedEx
+129500,Processing,2025-12-13,$39.30,Local Courier
+129888,Shipped,2025-12-08,$330.00,DHL
+130244,Delivered,2025-11-30,$78.80,UPS
+130599,Processing,2025-12-15,$122.99,Postal Service
+130955,Shipped,2025-12-07,$270.10,FedEx
+131344,Delivered,2025-11-29,$15.70,UPS
+131700,Processing,2025-12-14,$88.80,DHL
+132055,Shipped,2025-12-10,$19.99,Local Courier
+132430,Delivered,2025-12-01,$189.99,Postal Service
+132799,Processing,2025-12-12,$60.40,FedEx
+133144,Shipped,2025-12-06,$207.00,DHL
+133522,Delivered,2025-11-28,$99.99,UPS
+133899,Processing,2025-12-13,$41.50,Local Courier
+134255,Shipped,2025-12-09,$54.30,Postal Service
+134611,Delivered,2025-11-29,$65.99,UPS
+134988,Processing,2025-12-15,$214.10,FedEx
+135300,Shipped,2025-12-08,$199.99,DHL
+135699,Delivered,2025-12-01,$89.50,Postal Service
+136044,Processing,2025-12-14,$140.00,UPS
+136400,Shipped,2025-12-06,$32.40,FedEx
+136744,Delivered,2025-11-30,$240.00,Local Courier
+137100,Processing,2025-12-15,$17.75,DHL
+137455,Shipped,2025-12-08,$113.25,UPS
+137822,Delivered,2025-12-02,$155.99,FedEx
+138199,Processing,2025-12-13,$208.50,Postal Service
+138555,Shipped,2025-12-07,$19.20,DHL
+138900,Delivered,2025-11-29,$305.00,UPS
+139244,Processing,2025-12-14,$99.10,Local Courier
+139622,Shipped,2025-12-09,$140.40,FedEx
+139988,Delivered,2025-11-28,$80.00,Postal Service
+140333,Processing,2025-12-12,$188.70,UPS
+140722,Shipped,2025-12-10,$23.80,DHL
+141044,Delivered,2025-11-30,$210.10,Local Courier
+141399,Processing,2025-12-13,$45.60,FedEx
+141755,Shipped,2025-12-08,$174.20,UPS
+142110,Delivered,2025-11-29,$99.99,FedEx
+142455,Processing,2025-12-14,$139.50,UPS
+142822,Shipped,2025-12-06,$64.90,DHL
+143188,Delivered,2025-12-02,$232.40,Postal Service
+143544,Processing,2025-12-15,$19.99,Local Courier
+143900,Shipped,2025-12-09,$170.00,FedEx
+144244,Delivered,2025-11-28,$88.65,UPS
+144611,Processing,2025-12-13,$155.00,DHL
+144977,Shipped,2025-12-07,$37.40,Postal Service
+145300,Delivered,2025-12-01,$120.20,FedEx
+145655,Processing,2025-12-12,$169.30,UPS
+146022,Shipped,2025-12-10,$12.99,Local Courier
+146399,Delivered,2025-11-29,$225.00,DHL
+146755,Processing,2025-12-15,$145.40,UPS
+147122,Shipped,2025-12-07,$67.80,FedEx
+147488,Delivered,2025-11-28,$240.90,Postal Service
+147844,Processing,2025-12-14,$52.60,Local Courier
+148222,Shipped,2025-12-08,$19.55,UPS
+148577,Delivered,2025-11-30,$77.10,DHL
+148944,Processing,2025-12-13,$91.50,FedEx
+149300,Shipped,2025-12-10,$199.99,UPS
+149655,Delivered,2025-12-01,$44.99,Local Courier
+149999,Processing,2025-12-15,$330.00,DHL

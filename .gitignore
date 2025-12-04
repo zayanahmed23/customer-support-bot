@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (optional)
+models/*.pkl
+
+# Logs
+logs/
+*.log
+
+# Streamlit stuff
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts
+dist/
+build/
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/

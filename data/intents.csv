@@ -1,0 +1,119 @@
+text,intent
+hi,greeting
+hello,greeting
+hey,greeting
+hey there,greeting
+good morning,greeting
+good evening,greeting
+hi there,greeting
+hello there,greeting
+hi support,greeting
+hey support,greeting
+good afternoon,greeting
+hi i need help,greeting
+hello i have a question,greeting
+hey can you help me,greeting
+hi i need assistance,greeting
+bye,goodbye
+goodbye,goodbye
+see you,goodbye
+talk to you later,goodbye
+thanks bye,goodbye
+bye for now,goodbye
+ok bye,goodbye
+see you soon,goodbye
+i am done thanks,goodbye
+that is all bye,goodbye
+have a nice day,goodbye
+good night,goodbye
+see you next time,goodbye
+i will come back later,goodbye
+where is my order,order_status
+track my order,order_status
+what is the status of order 12345,order_status
+my order has not arrived,order_status
+when will my order arrive,order_status
+where can i see my order status,order_status
+check order 98765,order_status
+can you track order 55555,order_status
+status of my package,order_status
+is my order shipped yet,order_status
+has my order been dispatched,order_status
+why is my order late,order_status
+order 11111 is missing,order_status
+i did not receive my parcel,order_status
+update me on my order,order_status
+how do i get a refund,refund_policy
+can i get my money back,refund_policy
+what is your refund policy,refund_policy
+do you offer refunds,refund_policy
+how long do refunds take,refund_policy
+can i return a product,refund_policy
+can i return this item,refund_policy
+is this order refundable,refund_policy
+how do i start a refund,refund_policy
+i want a refund,refund_policy
+refund this order please,refund_policy
+can i get a full refund,refund_policy
+what are your return conditions,refund_policy
+do you charge a refund fee,refund_policy
+do you ship internationally,shipping_info
+how long does shipping take,shipping_info
+what are your shipping charges,shipping_info
+how much is delivery,shipping_info
+what shipping options do you have,shipping_info
+do you ship to my country,shipping_info
+do you offer free shipping,shipping_info
+what is the delivery time,shipping_info
+is express shipping available,shipping_info
+how many days for delivery,shipping_info
+can i change my shipping address,shipping_info
+who is your courier partner,shipping_info
+do you ship on weekends,shipping_info
+is cash on delivery available,shipping_info
+how much is international shipping,shipping_info
+i want to cancel my order,cancel_order
+cancel order 987654,cancel_order
+please cancel my order,cancel_order
+i ordered by mistake cancel it,cancel_order
+can you cancel this order,cancel_order
+cancel my last order,cancel_order
+i need to stop this order,cancel_order
+cancel order 123456,cancel_order
+do not ship my order,cancel_order
+i changed my mind cancel order,cancel_order
+how do i cancel an order,cancel_order
+can i cancel after shipping,cancel_order
+cancel the whole order,cancel_order
+cancel only this item,cancel_order
+cancelation request for my order,cancel_order
+i want to talk to a human,human_agent
+can i speak to a representative,human_agent
+connect me to a real person,human_agent
+i want to talk to support,human_agent
+give me customer care number,human_agent
+transfer me to an agent,human_agent
+i need to talk to someone,human_agent
+let me chat with a real agent,human_agent
+this is urgent i need a human,human_agent
+can a person help me,human_agent
+i am not happy connect human,human_agent
+human support please,human_agent
+escalate this to support,human_agent
+can i call customer service,human_agent
+let me speak to customer care,human_agent
+how are you,small_talk
+what's up,small_talk
+tell me a joke,small_talk
+are you a real person,small_talk
+who made you,small_talk
+what can you do,small_talk
+do you like your job,small_talk
+you are funny,small_talk
+you are helpful,small_talk
+thank you so much,small_talk
+thanks for your help,small_talk
+you are a nice bot,small_talk
+are you a robot,small_talk
+do you sleep,small_talk
+what is your name,small_talk
